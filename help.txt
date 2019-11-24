@@ -1,0 +1,12 @@
+Mesa Software (mesa2parts):
+
+This command-line utility can divide a file in many parts. And reassemble all.
+
+The supported command-line commands are:
+
+	-reasembling <output> <part1> <another_parts> : Assemble parts and make a single file
+	-divide <file> <amount_of_parts> : Separates into parts
+	-help
+
+End of help
+

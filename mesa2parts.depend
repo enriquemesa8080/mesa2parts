@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1378366622 source:d:\1enrique\proyectos de programacion de verdad verdad\mesa2parts\main.cpp
+	"dependences.hpp"
+
+1378398922 d:\1enrique\proyectos de programacion de verdad verdad\mesa2parts\dependences.hpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+
+1378400733 source:d:\1enrique\proyectos de programacion de verdad verdad\mesa2parts\functions.cpp
+	"dependences.hpp"
+
+1378363022 source:d:\1enrique\solo programacion\c-c++\proyectos sin terminar 1\mesa2parts\main.cpp
+	"dependences.hpp"
+
+1378395322 d:\1enrique\solo programacion\c-c++\proyectos sin terminar 1\mesa2parts\dependences.hpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+
+1378496031 source:d:\1enrique\solo programacion\c-c++\proyectos sin terminar 1\mesa2parts\functions.cpp
+	"dependences.hpp"
+

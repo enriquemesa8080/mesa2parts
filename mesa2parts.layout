@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="dependences.hpp" open="1" top="0" tabpos="2">
+		<Cursor position="563" topLine="0" />
+	</File>
+	<File name="functions.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="4433" topLine="153" />
+	</File>
+	<File name="help.txt" open="1" top="1" tabpos="4">
+		<Cursor position="328" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1005" topLine="19" />
+	</File>
+</CodeBlocks_layout_file>

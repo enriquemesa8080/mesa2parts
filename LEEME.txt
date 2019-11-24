@@ -1,0 +1,10 @@
+Hello. To test if software is working as desired, i should to put a file, in this case, for example "target.txt", use command line args, and see how the text file is splited into single units of files, each one with a size according to the desired choice.
+
+For example. If target.txt has a size of 47, and i decided to divide 5 parts, the algorithm will give me a 5 parts each one of 15 bytes, lefting 2 bytes remaining. In this first version the remainder stays as a independent file, giving me six files instead five. I consider that i should to mix the remainder with the last file.
+
+This software is publicly under the license of MIT software. 
+
+Probably i will no longer to mantain this software, by that reason i am releasing it to the public. 
+
+I hope that this can be useful for you, if you want to talk about code email me. Please give me credit if you use this software or take in base in some project. Of course, i recognize that it is very simple, but it is software with value.
+
